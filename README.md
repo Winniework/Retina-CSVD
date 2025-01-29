@@ -4,7 +4,9 @@ The file "UKB_retinal_CSVD_markers.xlsx" contains retinal imaging analysis marke
 
 ## Definitions of the features
 WMHV: Volume of white matter hyperintensities, indicative of small vessel disease severity.
+
 CPV: Choroid plexus volume, associated with cerebrospinal fluid production and neuroinflammation.
+
 QC: Quality control metric (0=good, 1=usable, 2=bad).
 Fractal Dimension: Quantifies vascular network complexity and geometric patterns.
 Vessel Density: Proportion of vascular area per unit tissue area, indicating blood supply.
